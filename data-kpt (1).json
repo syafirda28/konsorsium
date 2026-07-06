@@ -1,0 +1,228 @@
+[
+  {
+    "id": "k101",
+    "prov": "NUSA TENGGARA TIMUR",
+    "lldikti": "LLDIKTI XV",
+    "pt": [
+      {
+        "n": "Universitas Nusa Cendana",
+        "peran": "Ketahanan pangan, Bank PMT Terpadu, Teknologi pengolahan hasil laut"
+      },
+      {
+        "n": "Universitas Brawijaya",
+        "peran": "Smart Agriculture, Hilirisasi Jagung, Diversifikasi pangan balita, Produksi ayam dan sapi"
+      },
+      {
+        "n": "Universitas Muhammadiyah Malang",
+        "peran": "Nutricom, Digital Stunting, Edukasi keluarga, Pemberdayaan bambu"
+      },
+      {
+        "n": "Unika Widya Mandira",
+        "peran": "Pengelolaan laut berbasis adat, Triple Helix tenun ikat, Pendidikan karakter"
+      },
+      {
+        "n": "Politeknik Pertanian Negeri Kupang",
+        "peran": "Biofortifikasi jagung, Snack bar gizi, Smart irrigation, Cold Brew Kopi Timor"
+      },
+      {
+        "n": "Politeknik Negeri Kupang",
+        "peran": "Solar panel, Bioplastik lontar, Rekayasa kayu lontar"
+      },
+      {
+        "n": "Universitas Flores",
+        "peran": "Desa pangan, Mitigasi banjir, Literasi multilingual"
+      },
+      {
+        "n": "Universitas Nusa Nipa",
+        "peran": "Bioflok, SIG budidaya kerapu, Terapi kesehatan"
+      },
+      {
+        "n": "Universitas Timor",
+        "peran": "Air bersih, Perbatasan RI-RDTL, Pencegahan Human Trafficking"
+      },
+      {
+        "n": "Unika Santu Paulus Ruteng",
+        "peran": "STEAM berbasis AR, Lonto Leok, Pakan ternak"
+      },
+      {
+        "n": "Unika Weetebula",
+        "peran": "Energi angin mikro, Desa bebas stunting, Etnosains"
+      },
+      {
+        "n": "Universitas Citra Bangsa",
+        "peran": "Literasi gizi keluarga, Kesehatan mental, Digital payment perbatasan"
+      }
+    ],
+    "mitra": [
+      "Pemerintah Daerah Kabupaten/Kota Desa/BUMDes Posyandu Kelompok Tani Kelompok Nelayan Masyarakat adat (Suku Boti, Manggarai, Sumba, dll.)"
+    ],
+    "isu": [
+      {
+        "bidang": "Pangan dan Kemaritiman",
+        "ket": "Diversifikasi pangan lokal, biofortifikasi jagung, smart agriculture, pangan bioflok, budidaya kerapu, pengelolaan laut berbasis kearifan lokal, hilirisasi jagung, teknologi penyimpanan ikan, ketahanan pangan berbasis kearifan lokal, produksi ayam dan sapi."
+      },
+      {
+        "bidang": "Energi dan Air",
+        "ket": "Energi angin mikro di Sumba, energi surya, solar panel untuk penyimpanan ikan, membran Forward Osmosis untuk air bersih dari laut, irigasi cerdas, pengelolaan sumber air berbasis kearifan lokal."
+      },
+      {
+        "bidang": "Pendidikan",
+        "ket": "Pembelajaran STEAM berbasis budaya, AI dalam pembelajaran, Augmented Reality, literasi multilingual, pendidikan karakter, Lonto Leok, Pasola sebagai media pembelajaran, edukasi keluarga tentang stunting."
+      },
+      {
+        "bidang": "Kesehatan",
+        "ket": "Penurunan stunting, Nutricom/Nutricorn, Bank PMT Terpadu, pemantauan gizi digital, edukasi ibu hamil, pangan fungsional, terapi hipertensi dan TB, evaluasi kepatuhan obat TBC."
+      },
+      {
+        "bidang": "Hilirisasi dan Industrialisasi",
+        "ket": "Hilirisasi benih jagung, industrialisasi produk pangan lokal, pengembangan produk berbasis bambu, bioplastik, Cold Brew Kopi Timor, pengembangan produk tenun dan pangan lokal."
+      },
+      {
+        "bidang": "Penguatan Ekonomi Kerakyatan",
+        "ket": "Penguatan BUMDes, UMKM, kelompok usaha lokal, digital marketing, Triple Helix tenun ikat, pemberdayaan ekonomi masyarakat berbasis produk lokal."
+      },
+      {
+        "bidang": "Penurunan Kemiskinan",
+        "ket": "Penghapusan kemiskinan ekstrem menjadi tujuan utama konsorsium melalui pemberdayaan masyarakat, penguatan kelembagaan desa, bioflok untuk keluarga miskin ekstrem, Bank PMT Terpadu, dan penguatan kapasitas kader Posyandu."
+      }
+    ],
+    "model": "Edukasi masyarakat\nEdukasi keluarga\nEdukasi ibu hamil\nPelatihan kader Posyandu\nPenguatan BUMDes\nPembentukan kelompok usaha\nHilirisasi produk lokal\nTransfer teknologi\nSmart Agriculture\nPenguatan desa bebas stunting\nPendampingan petani\nPendampingan nelayan\nPendampingan UMKM\nIntegrasi kearifan lokal\nDigitalisasi pelayanan kesehatan",
+    "target": "Penurunan prevalensi stunting\nPenurunan kemiskinan ekstrem\nKemandirian pangan lokal\nHilirisasi hasil riset\nPeningkatan produktivitas pertanian\nPenguatan ekonomi desa\nPengembangan energi terbarukan\nPeningkatan kualitas pendidikan berbasis budaya\nPenguatan ketahanan masyarakat terhadap bencana\nPenguatan kolaborasi perguruan tinggi dan pemerintah daerah\nKeberlanjutan program melalui pendanaan kolaboratif, platform data terpadu, hilirisasi ke pasar, dan koordinasi antarperguruan tinggi.",
+    "hasil": "Produktivitas padi meningkat 4,2 menjadi 8,4 ton/ha\nProduktivitas jagung mencapai 6 ton/ha\n13 Perguruan Tinggi aktif berkolaborasi\nSebagian besar program telah mencapai 70–100% progres\nTerbentuk kelompok usaha lokal\nPenguatan BUMDes\nPenguatan kader Posyandu\nPeningkatan edukasi ibu hamil\nPenguatan kelembagaan masyarakat",
+    "lokus": [
+      {
+        "kab": "Timor Tengah Selatan",
+        "ket": "Disebut sebagai episentrum kegiatan konsorsium, melibatkan 6 perguruan tinggi dengan kegiatan stunting, smart agriculture, kearifan lokal, eco-enzyme, hingga BUMDes."
+      },
+      {
+        "kab": "Manggarai Barat",
+        "ket": "Menjadi wilayah irisan 6 perguruan tinggi dengan fokus pendidikan, budaya, ekonomi, pembangunan bambu, dan inovasi pakan."
+      },
+      {
+        "kab": "Kupang",
+        "ket": "Menjadi pusat inovasi produk, kesehatan, bioplastik, kayu lontar, evaluasi TBC, dan pemetaan banjir"
+      },
+      {
+        "kab": "Timor Tengah Utara",
+        "ket": "Fokus wilayah perbatasan, peternakan, diplomasi adat, dan pengelolaan air bersih."
+      },
+      {
+        "kab": "Nagekeo",
+        "ket": "Fokus smart agriculture dengan peningkatan produktivitas padi hingga 8,4 ton/ha dan pangan lokal."
+      },
+      {
+        "kab": "Ende",
+        "ket": "Model Desa Pangan jagung–sorgum–pisang serta inovasi pangan lokal."
+      }
+    ]
+  },
+  {
+    "id": "k102",
+    "prov": "SUMATERA BARAT",
+    "lldikti": "",
+    "pt": [],
+    "mitra": [],
+    "isu": [],
+    "model": "",
+    "target": "",
+    "hasil": "",
+    "lokus": []
+  },
+  {
+    "id": "k103",
+    "prov": "SULAWESI TENGAH",
+    "lldikti": "",
+    "pt": [],
+    "mitra": [],
+    "isu": [],
+    "model": "",
+    "target": "",
+    "hasil": "",
+    "lokus": []
+  },
+  {
+    "id": "k106",
+    "prov": "BALI",
+    "lldikti": "LLDIKTI Wilayah VIII",
+    "pt": [
+      {
+        "n": "Institut Mpu Kuturan Singaraja",
+        "peran": ""
+      },
+      {
+        "n": "STKIP Agama Hindu Amlapura",
+        "peran": ""
+      },
+      {
+        "n": "STKIP Agama Hindu Singaraja",
+        "peran": ""
+      },
+      {
+        "n": "Universitas Dhayana Pura Bali",
+        "peran": ""
+      },
+      {
+        "n": "Universitas Triatma Mulya",
+        "peran": ""
+      },
+      {
+        "n": "ITP Markandeya Bali",
+        "peran": ""
+      },
+      {
+        "n": "Universitas Panji Sakti Singaraja",
+        "peran": ""
+      },
+      {
+        "n": "Ecosystem Constellation Map",
+        "peran": ""
+      },
+      {
+        "n": "Universitas Dwijendra",
+        "peran": ""
+      },
+      {
+        "n": "Universitas Mahasaraswati Denpasar",
+        "peran": ""
+      },
+      {
+        "n": "Universitas PGRI Mahadewa Indonesia",
+        "peran": ""
+      },
+      {
+        "n": "UHN I Gusti Bagus Sugriwa Denpasar",
+        "peran": ""
+      },
+      {
+        "n": "Universitas Hindu Indonesia",
+        "peran": ""
+      },
+      {
+        "n": "IKIP Saraswati Tabanan",
+        "peran": ""
+      }
+    ],
+    "mitra": [
+      "Pemerintah Daerah"
+    ],
+    "isu": [
+      {
+        "bidang": "Pendidikan",
+        "ket": "Mewujudkan sistem pendidikan di Bali yang terintegrasi, kolaboratif, inovatif, dan berdaya saing global dengan tetap berlandaskan pada nilai-nilai kearifan lokal, guna meningkatkan kualitas sumber daya manusia secara berkelanjutan."
+      }
+    ],
+    "lokus": [
+      {
+        "kab": "Kota Denpasar",
+        "ket": ""
+      },
+      {
+        "kab": "Buleleng",
+        "ket": ""
+      }
+    ],
+    "model": "Model yang diusulkan adalah Hybrid Collaborative Consortium, yaitu kombinasi antara:\n1)\tKonsorsium akademik (pendidikan dan riset)\n2)\tKonsorsium praktis (link and match dengan industri)",
+    "hasil": "",
+    "target": "-Publikasi Ilmiah (40 Nasional, 10 Scopus/WoS) dan 5 HKI -Akses pengguna aktif ke platform LMS terpadu & 75 Sekolah penerap model BK digital -DAMPAK SDM Guru/Dosen terlatih intervensi psikososial & neurosains -Tingkat serapan lulusan di dunia kerja dan MoU kejja sama industri kerja -Kebijaakan Daerah berbasis temuan empiris konsorsium"
+  }
+]
